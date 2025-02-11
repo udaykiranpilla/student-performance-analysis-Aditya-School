@@ -21,7 +21,6 @@ This project analyzes the academic performance of **Class 10 students** at **Adi
 ```
 📁 Student-Performance-Analysis
 │── 📂 data                # Raw & cleaned datasets (CSV, Excel)
-│── 📂 scripts             # Python scripts for data cleaning & analysis
 │── 📂 dashboards          # Tableau workbooks (.twbx files)
 │── README.md             # Project documentation
 ```
